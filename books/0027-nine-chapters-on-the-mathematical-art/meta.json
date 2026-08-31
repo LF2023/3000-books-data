@@ -1,0 +1,20 @@
+{
+  "id": "0027",
+  "slug": "nine-chapters-on-the-mathematical-art",
+  "title": "九章算术",
+  "author": {
+    "name": "张苍、耿寿昌等",
+    "era": "约公元1世纪"
+  },
+  "category": "自然科学",
+  "tags": [
+    "中国数学",
+    "算法"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "汉代编定的中国古典算书，按应用问题分类并给出算法。"
+}

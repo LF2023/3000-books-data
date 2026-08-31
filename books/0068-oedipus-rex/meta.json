@@ -1,0 +1,19 @@
+{
+  "id": "0068",
+  "slug": "oedipus-rex",
+  "title": "俄狄浦斯王",
+  "author": {
+    "name": "索福克勒斯",
+    "era": "公元前5世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "希腊悲剧"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "索福克勒斯的希腊悲剧，写忒拜王俄狄浦斯查明自己杀父娶母的命运。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0076",
+  "slug": "romance-of-the-three-kingdoms",
+  "title": "三国演义",
+  "author": {
+    "name": "罗贯中",
+    "era": "14世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "历史演义",
+    "中国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "罗贯中根据三国史事敷演的长篇历史演义。"
+}

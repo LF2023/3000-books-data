@@ -1,0 +1,20 @@
+{
+  "id": "0080",
+  "slug": "one-thousand-and-one-nights",
+  "title": "一千零一夜",
+  "author": {
+    "name": "阿拉伯民间故事集",
+    "era": "约8-13世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "民间故事",
+    "阿拉伯"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "阿拉伯世界长期汇集的民间故事集，以山鲁佐德讲故事为框架。"
+}

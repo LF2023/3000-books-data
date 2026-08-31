@@ -1,0 +1,20 @@
+{
+  "id": "0017",
+  "slug": "monadology",
+  "title": "单子论",
+  "author": {
+    "name": "莱布尼茨",
+    "era": "1714年"
+  },
+  "category": "哲学",
+  "tags": [
+    "形而上学",
+    "德国哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "莱布尼茨简述单子、预定和谐与神正论的短篇形而上学纲要。"
+}

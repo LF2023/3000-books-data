@@ -1,0 +1,20 @@
+{
+  "id": "0047",
+  "slug": "zizhi-tongjian",
+  "title": "资治通鉴",
+  "author": {
+    "name": "司马光",
+    "era": "1084年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "编年体",
+    "政治史"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "司马光主编的编年体通史，记载战国至五代的政治史事。"
+}

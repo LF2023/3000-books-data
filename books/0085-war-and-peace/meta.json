@@ -1,0 +1,20 @@
+{
+  "id": "0085",
+  "slug": "war-and-peace",
+  "title": "战争与和平",
+  "author": {
+    "name": "托尔斯泰",
+    "era": "1869年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "俄国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托尔斯泰以拿破仑入侵俄国为背景写贵族家庭与战争的长篇小说。"
+}

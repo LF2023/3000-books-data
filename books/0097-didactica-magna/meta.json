@@ -1,0 +1,19 @@
+{
+  "id": "0097",
+  "slug": "didactica-magna",
+  "title": "大教学论",
+  "author": {
+    "name": "夸美纽斯",
+    "era": "1657年"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "教育学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "夸美纽斯系统讨论教学目的、内容与方法的教育学著作。"
+}

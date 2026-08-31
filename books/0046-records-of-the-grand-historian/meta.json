@@ -1,0 +1,20 @@
+{
+  "id": "0046",
+  "slug": "records-of-the-grand-historian",
+  "title": "史记",
+  "author": {
+    "name": "司马迁",
+    "era": "公元前1世纪"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "纪传体",
+    "中国通史"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "司马迁所著纪传体通史，记述黄帝至汉武帝间的史事与人物。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0031",
+  "slug": "opticks",
+  "title": "光学",
+  "author": {
+    "name": "牛顿",
+    "era": "1704年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "实验物理",
+    "光学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "牛顿基于实验讨论光的折射、色散与颜色的英文著作。"
+}

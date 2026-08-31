@@ -1,0 +1,20 @@
+{
+  "id": "0051",
+  "slug": "the-prince",
+  "title": "君主论",
+  "author": {
+    "name": "马基雅维利",
+    "era": "1532年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "政治学",
+    "文艺复兴"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "马基雅维利讨论君主如何获得并维持权力的政治论著，身后出版。"
+}

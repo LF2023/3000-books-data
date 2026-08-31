@@ -1,0 +1,20 @@
+{
+  "id": "0013",
+  "slug": "upanishads",
+  "title": "奥义书",
+  "author": {
+    "name": "印度无名智者",
+    "era": "约公元前800-500年"
+  },
+  "category": "哲学",
+  "tags": [
+    "印度哲学",
+    "吠陀"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "吠陀文献末期的哲理篇章，讨论梵、我与解脱等观念。"
+}

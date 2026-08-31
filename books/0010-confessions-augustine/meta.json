@@ -1,0 +1,20 @@
+{
+  "id": "0010",
+  "slug": "confessions-augustine",
+  "title": "忏悔录",
+  "author": {
+    "name": "奥古斯丁",
+    "era": "约400年"
+  },
+  "category": "哲学",
+  "tags": [
+    "宗教哲学",
+    "自传"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "奥古斯丁叙述自己归信历程并向上帝告白的拉丁文自传体著作。"
+}

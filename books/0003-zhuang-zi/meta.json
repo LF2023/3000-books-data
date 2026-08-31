@@ -1,0 +1,20 @@
+{
+  "id": "0003",
+  "slug": "zhuang-zi",
+  "title": "庄子",
+  "author": {
+    "name": "庄周",
+    "era": "战国时期"
+  },
+  "category": "哲学",
+  "tags": [
+    "道家经典",
+    "美学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "庄周及其后学的道家散文集，多用寓言讨论齐物、逍遥与生死。"
+}

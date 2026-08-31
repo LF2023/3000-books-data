@@ -1,0 +1,20 @@
+{
+  "id": "0045",
+  "slug": "the-analytical-theory-of-heat",
+  "title": "热的解析理论",
+  "author": {
+    "name": "傅里叶",
+    "era": "1822年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "数学物理",
+    "热传导"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "傅里叶用数学分析研究热传导、并引出傅里叶级数的著作。"
+}

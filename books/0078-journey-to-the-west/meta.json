@@ -1,0 +1,20 @@
+{
+  "id": "0078",
+  "slug": "journey-to-the-west",
+  "title": "西游记",
+  "author": {
+    "name": "吴承恩",
+    "era": "16世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "神魔小说",
+    "中国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "通常归为吴承恩的神魔小说，写孙悟空等护送唐僧西天取经。"
+}

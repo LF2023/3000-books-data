@@ -1,0 +1,20 @@
+{
+  "id": "0075",
+  "slug": "dream-of-the-red-chamber",
+  "title": "红楼梦",
+  "author": {
+    "name": "曹雪芹",
+    "era": "18世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "中国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "曹雪芹所著长篇小说，写贾府盛衰与宝玉、黛玉等人的故事。"
+}

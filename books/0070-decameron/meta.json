@@ -1,0 +1,20 @@
+{
+  "id": "0070",
+  "slug": "decameron",
+  "title": "十日谈",
+  "author": {
+    "name": "薄伽丘",
+    "era": "1353年"
+  },
+  "category": "文学",
+  "tags": [
+    "短篇小说集",
+    "文艺复兴"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "薄伽丘写十名青年避疫乡间轮流讲一百个故事的短篇小说集。"
+}

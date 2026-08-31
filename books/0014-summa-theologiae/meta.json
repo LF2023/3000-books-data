@@ -1,0 +1,20 @@
+{
+  "id": "0014",
+  "slug": "summa-theologiae",
+  "title": "神学大全",
+  "author": {
+    "name": "托马斯·阿奎那",
+    "era": "1274年"
+  },
+  "category": "哲学",
+  "tags": [
+    "经院哲学",
+    "中世纪"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托马斯·阿奎那以问题体例系统阐述天主教神学与哲学的未完成巨著。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0086",
+  "slug": "anna-karenina",
+  "title": "安娜·卡列尼娜",
+  "author": {
+    "name": "托尔斯泰",
+    "era": "1877年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "俄国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托尔斯泰写安娜·卡列尼娜的婚外情以及列文乡村生活的长篇小说。"
+}

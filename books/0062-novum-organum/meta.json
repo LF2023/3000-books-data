@@ -1,0 +1,20 @@
+{
+  "id": "0062",
+  "slug": "novum-organum",
+  "title": "新工具",
+  "author": {
+    "name": "培根",
+    "era": "1620年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "科学方法",
+    "归纳法"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "弗朗西斯·培根主张以归纳法取代亚里士多德工具论的科学方法著作。"
+}

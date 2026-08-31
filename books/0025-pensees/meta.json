@@ -1,0 +1,20 @@
+{
+  "id": "0025",
+  "slug": "pensees",
+  "title": "思想录",
+  "author": {
+    "name": "帕斯卡尔",
+    "era": "1670年"
+  },
+  "category": "哲学",
+  "tags": [
+    "宗教哲思",
+    "随笔"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "帕斯卡尔为护教著作留下的未完成札记，身后辑为《思想录》。"
+}

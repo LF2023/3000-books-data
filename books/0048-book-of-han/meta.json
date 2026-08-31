@@ -1,0 +1,20 @@
+{
+  "id": "0048",
+  "slug": "book-of-han",
+  "title": "汉书",
+  "author": {
+    "name": "班固",
+    "era": "1世纪"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "断代史",
+    "二十四史"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "班固主撰的西汉断代史，为纪传体断代史的典范之一。"
+}

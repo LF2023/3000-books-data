@@ -1,0 +1,20 @@
+{
+  "id": "0023",
+  "slug": "on-liberty",
+  "title": "论自由",
+  "author": {
+    "name": "约翰·密尔",
+    "era": "1859年"
+  },
+  "category": "哲学",
+  "tags": [
+    "自由主义",
+    "政治哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "约翰·密尔论证个人自由与伤害原则的自由主义政治哲学著作。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0100",
+  "slug": "lives-of-the-most-excellent-painters-sculptors-and-architects",
+  "title": "艺苑名人传",
+  "author": {
+    "name": "瓦萨里",
+    "era": "1550年"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "艺术史",
+    "文艺复兴"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "乔尔乔·瓦萨里为意大利画家、雕塑家与建筑师所作的传记集。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0001",
+  "slug": "lun-yu",
+  "title": "论语",
+  "author": {
+    "name": "孔子及其弟子",
+    "era": "春秋时期"
+  },
+  "category": "哲学",
+  "tags": [
+    "儒家经典",
+    "中国哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "孔子及其弟子言行的汇编，是儒家最核心的语录体经典。"
+}

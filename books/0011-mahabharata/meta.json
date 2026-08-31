@@ -1,0 +1,20 @@
+{
+  "id": "0011",
+  "slug": "mahabharata",
+  "title": "摩诃婆罗多",
+  "author": {
+    "name": "广博仙人（传）",
+    "era": "约公元前4世纪"
+  },
+  "category": "哲学",
+  "tags": [
+    "印度史诗",
+    "东方哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "印度梵语大史诗，记述般度族与俱卢族之战并收入《薄伽梵歌》等哲理篇章。"
+}

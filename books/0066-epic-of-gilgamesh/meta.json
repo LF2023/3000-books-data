@@ -1,0 +1,20 @@
+{
+  "id": "0066",
+  "slug": "epic-of-gilgamesh",
+  "title": "吉尔伽美什史诗",
+  "author": {
+    "name": "美索不达米亚无名氏",
+    "era": "约公元前2000年"
+  },
+  "category": "文学",
+  "tags": [
+    "史诗",
+    "苏美尔"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "古代美索不达米亚史诗，讲述乌鲁克王吉尔伽美什求永生而不得的故事。"
+}

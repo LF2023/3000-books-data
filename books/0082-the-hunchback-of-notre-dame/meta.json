@@ -1,0 +1,20 @@
+{
+  "id": "0082",
+  "slug": "the-hunchback-of-notre-dame",
+  "title": "巴黎圣母院",
+  "author": {
+    "name": "雨果",
+    "era": "1831年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "法国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "雨果以十五世纪巴黎为背景、围绕圣母院与卡西莫多等人的长篇小说。"
+}

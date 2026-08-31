@@ -1,0 +1,20 @@
+{
+  "id": "0029",
+  "slug": "dialogue-concerning-the-two-chief-world-systems",
+  "title": "关于两大世界体系的对话",
+  "author": {
+    "name": "伽利略",
+    "era": "1632年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "天文学",
+    "科学方法"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "伽利略以对话比较托勒密地心说与哥白尼日心说的著作。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0072",
+  "slug": "hamlet",
+  "title": "哈姆雷特",
+  "author": {
+    "name": "莎士比亚",
+    "era": "约1601年"
+  },
+  "category": "文学",
+  "tags": [
+    "戏剧",
+    "英国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "莎士比亚的悲剧，写丹麦王子哈姆雷特为父复仇的故事。"
+}

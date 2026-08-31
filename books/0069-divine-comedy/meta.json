@@ -1,0 +1,20 @@
+{
+  "id": "0069",
+  "slug": "divine-comedy",
+  "title": "神曲",
+  "author": {
+    "name": "但丁",
+    "era": "约1320年"
+  },
+  "category": "文学",
+  "tags": [
+    "长诗",
+    "意大利"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "但丁用意大利文写成的长诗，叙述诗人游历地狱、炼狱与天堂。"
+}

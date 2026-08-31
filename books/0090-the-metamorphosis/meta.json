@@ -1,0 +1,20 @@
+{
+  "id": "0090",
+  "slug": "the-metamorphosis",
+  "title": "变形记",
+  "author": {
+    "name": "卡夫卡",
+    "era": "1915年"
+  },
+  "category": "文学",
+  "tags": [
+    "中篇小说",
+    "德语"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "卡夫卡的中篇小说，写格里高尔·萨姆沙一觉醒来变成甲虫。"
+}

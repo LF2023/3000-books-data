@@ -1,0 +1,20 @@
+{
+  "id": "0079",
+  "slug": "the-tale-of-genji",
+  "title": "源氏物语",
+  "author": {
+    "name": "紫式部",
+    "era": "11世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "物语",
+    "日本"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "紫式部所著物语，写光源氏及其后人事的宫廷长篇。"
+}

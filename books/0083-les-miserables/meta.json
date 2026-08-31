@@ -1,0 +1,20 @@
+{
+  "id": "0083",
+  "slug": "les-miserables",
+  "title": "悲惨世界",
+  "author": {
+    "name": "雨果",
+    "era": "1862年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "法国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "雨果写冉阿让在法律与贫困中求赎的长篇小说。"
+}

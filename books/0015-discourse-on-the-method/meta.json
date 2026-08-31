@@ -1,0 +1,20 @@
+{
+  "id": "0015",
+  "slug": "discourse-on-the-method",
+  "title": "谈谈方法",
+  "author": {
+    "name": "笛卡尔",
+    "era": "1637年"
+  },
+  "category": "哲学",
+  "tags": [
+    "理性主义",
+    "认识论"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "笛卡尔说明其怀疑方法与“我思故我在”的哲学导论。"
+}

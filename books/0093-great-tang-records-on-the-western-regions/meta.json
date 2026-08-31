@@ -1,0 +1,20 @@
+{
+  "id": "0093",
+  "slug": "great-tang-records-on-the-western-regions",
+  "title": "大唐西域记",
+  "author": {
+    "name": "玄奘",
+    "era": "646年"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "游记",
+    "西域"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "玄奘记述西行所经西域与印度等地地理、风俗与佛教情况的著作。"
+}

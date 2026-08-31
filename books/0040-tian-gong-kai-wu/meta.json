@@ -1,0 +1,20 @@
+{
+  "id": "0040",
+  "slug": "tian-gong-kai-wu",
+  "title": "天工开物",
+  "author": {
+    "name": "宋应星",
+    "era": "1637年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "古代科技",
+    "工艺"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "宋应星记述明代农业与手工业技术的工艺百科。"
+}

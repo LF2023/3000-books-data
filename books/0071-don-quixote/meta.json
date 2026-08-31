@@ -1,0 +1,20 @@
+{
+  "id": "0071",
+  "slug": "don-quixote",
+  "title": "堂吉诃德",
+  "author": {
+    "name": "塞万提斯",
+    "era": "1605年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "西班牙"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "塞万提斯写乡绅模仿骑士小说出门冒险的长篇小说。"
+}

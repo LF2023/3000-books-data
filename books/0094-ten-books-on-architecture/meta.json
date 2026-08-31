@@ -1,0 +1,20 @@
+{
+  "id": "0094",
+  "slug": "ten-books-on-architecture",
+  "title": "建筑十书",
+  "author": {
+    "name": "维特鲁威",
+    "era": "公元前1世纪"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "建筑",
+    "古罗马"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "维特鲁威用拉丁文写成的建筑理论著作，讨论建筑、机械与城市。"
+}

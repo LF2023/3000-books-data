@@ -1,0 +1,20 @@
+{
+  "id": "0032",
+  "slug": "elementary-treatise-on-chemistry",
+  "title": "化学基础",
+  "author": {
+    "name": "拉瓦锡",
+    "era": "1789年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "化学",
+    "质量守恒"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "拉瓦锡系统阐述氧化理论、元素表与质量守恒的化学教科书。"
+}

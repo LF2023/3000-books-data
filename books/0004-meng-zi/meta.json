@@ -1,0 +1,20 @@
+{
+  "id": "0004",
+  "slug": "meng-zi",
+  "title": "孟子",
+  "author": {
+    "name": "孟轲",
+    "era": "战国时期"
+  },
+  "category": "哲学",
+  "tags": [
+    "儒家经典",
+    "政治哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "孟轲及其弟子的儒家著作，主张性善说并以仁政论政治。"
+}

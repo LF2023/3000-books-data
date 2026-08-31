@@ -1,0 +1,20 @@
+{
+  "id": "0095",
+  "slug": "a-treatise-on-painting",
+  "title": "论绘画",
+  "author": {
+    "name": "达·芬奇",
+    "era": "约1651年刊行"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "绘画",
+    "文艺复兴"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "达·芬奇论绘画的笔记汇编，约1651年才以《论绘画》之名刊行。"
+}

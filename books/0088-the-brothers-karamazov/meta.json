@@ -1,0 +1,20 @@
+{
+  "id": "0088",
+  "slug": "the-brothers-karamazov",
+  "title": "卡拉马佐夫兄弟",
+  "author": {
+    "name": "陀思妥耶夫斯基",
+    "era": "1880年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "俄国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "陀思妥耶夫斯基写卡拉马佐夫一家父子兄弟之间冲突与弑父案的长篇小说。"
+}

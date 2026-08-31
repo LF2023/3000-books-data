@@ -1,0 +1,20 @@
+{
+  "id": "0008",
+  "slug": "nicomachean-ethics",
+  "title": "尼各马可伦理学",
+  "author": {
+    "name": "亚里士多德",
+    "era": "公元前4世纪"
+  },
+  "category": "哲学",
+  "tags": [
+    "伦理学",
+    "西方哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "亚里士多德论德性、幸福与实践智慧的伦理学著作。"
+}

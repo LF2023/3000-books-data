@@ -1,0 +1,20 @@
+{
+  "id": "0026",
+  "slug": "elements-euclid",
+  "title": "几何原本",
+  "author": {
+    "name": "欧几里得",
+    "era": "约公元前300年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "公理体系",
+    "几何学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "欧几里得以定义、公设与命题组织平面与立体几何的希腊数学经典。"
+}

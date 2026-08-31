@@ -1,0 +1,20 @@
+{
+  "id": "0074",
+  "slug": "faust",
+  "title": "浮士德",
+  "author": {
+    "name": "歌德",
+    "era": "1808年"
+  },
+  "category": "文学",
+  "tags": [
+    "诗剧",
+    "德国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "歌德根据浮士德传说写成的诗剧，第一部于1808年刊行。"
+}

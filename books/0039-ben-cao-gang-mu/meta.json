@@ -1,0 +1,20 @@
+{
+  "id": "0039",
+  "slug": "ben-cao-gang-mu",
+  "title": "本草纲目",
+  "author": {
+    "name": "李时珍",
+    "era": "1578年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "博物学",
+    "传统医药"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "李时珍编撰的药物学与博物学著作，按纲目分类记述药物。"
+}

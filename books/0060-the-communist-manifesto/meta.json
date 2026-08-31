@@ -1,0 +1,19 @@
+{
+  "id": "0060",
+  "slug": "the-communist-manifesto",
+  "title": "共产党宣言",
+  "author": {
+    "name": "马克思、恩格斯",
+    "era": "1848年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "政治文献"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "马克思与恩格斯为共产主义者同盟撰写的政治纲领。"
+}

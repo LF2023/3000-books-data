@@ -1,0 +1,20 @@
+{
+  "id": "0016",
+  "slug": "ethics-spinoza",
+  "title": "伦理学",
+  "author": {
+    "name": "斯宾诺莎",
+    "era": "1677年"
+  },
+  "category": "哲学",
+  "tags": [
+    "理性主义",
+    "形而上学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "斯宾诺莎以几何学体例论证神即自然、情感与自由的哲学著作，身后出版。"
+}

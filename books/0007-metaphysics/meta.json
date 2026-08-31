@@ -1,0 +1,20 @@
+{
+  "id": "0007",
+  "slug": "metaphysics",
+  "title": "形而上学",
+  "author": {
+    "name": "亚里士多德",
+    "era": "公元前4世纪"
+  },
+  "category": "哲学",
+  "tags": [
+    "西方哲学",
+    "本体论"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "亚里士多德讨论存在、实体、原因与第一哲学的论文汇编。"
+}

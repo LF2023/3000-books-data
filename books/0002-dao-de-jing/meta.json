@@ -1,0 +1,20 @@
+{
+  "id": "0002",
+  "slug": "dao-de-jing",
+  "title": "道德经",
+  "author": {
+    "name": "老子",
+    "era": "春秋时期"
+  },
+  "category": "哲学",
+  "tags": [
+    "道家经典",
+    "中国哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托名老子的短篇道家经典，以道、无为与柔弱为主要论题。"
+}

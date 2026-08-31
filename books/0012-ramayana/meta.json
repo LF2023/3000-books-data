@@ -1,0 +1,20 @@
+{
+  "id": "0012",
+  "slug": "ramayana",
+  "title": "罗摩衍那",
+  "author": {
+    "name": "蚁垤（传）",
+    "era": "约公元前3世纪"
+  },
+  "category": "哲学",
+  "tags": [
+    "印度史诗",
+    "神话"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "印度梵语史诗，叙述罗摩救回悉多并复国的故事。"
+}

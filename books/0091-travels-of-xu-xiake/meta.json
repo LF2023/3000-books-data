@@ -1,0 +1,20 @@
+{
+  "id": "0091",
+  "slug": "travels-of-xu-xiake",
+  "title": "徐霞客游记",
+  "author": {
+    "name": "徐霞客",
+    "era": "1642年"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "游记",
+    "地理"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "徐霞客实地考察山川地貌的游记，由其日记在身后辑成。"
+}

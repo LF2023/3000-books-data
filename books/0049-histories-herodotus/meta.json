@@ -1,0 +1,20 @@
+{
+  "id": "0049",
+  "slug": "histories-herodotus",
+  "title": "历史",
+  "author": {
+    "name": "希罗多德",
+    "era": "公元前5世纪"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "古希腊史学",
+    "波希战争"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "希罗多德记述希腊与波斯战争及相关民族风俗的史学著作。"
+}

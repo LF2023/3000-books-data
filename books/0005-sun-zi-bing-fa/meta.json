@@ -1,0 +1,20 @@
+{
+  "id": "0005",
+  "slug": "sun-zi-bing-fa",
+  "title": "孙子兵法",
+  "author": {
+    "name": "孙武",
+    "era": "春秋时期"
+  },
+  "category": "哲学",
+  "tags": [
+    "兵家经典",
+    "战略学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托名孙武的先秦兵书，讨论战争谋略、地形与用间等原则。"
+}

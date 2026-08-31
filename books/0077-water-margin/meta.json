@@ -1,0 +1,20 @@
+{
+  "id": "0077",
+  "slug": "water-margin",
+  "title": "水浒传",
+  "author": {
+    "name": "施耐庵",
+    "era": "14世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "英雄传奇",
+    "中国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托名施耐庵的长篇小说，写宋江等梁山人物的聚义故事。"
+}

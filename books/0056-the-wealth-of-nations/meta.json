@@ -1,0 +1,20 @@
+{
+  "id": "0056",
+  "slug": "the-wealth-of-nations",
+  "title": "国富论",
+  "author": {
+    "name": "亚当·斯密",
+    "era": "1776年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "古典经济学",
+    "政治经济学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "亚当·斯密分析劳动分工、市场与国家经济政策的政治经济学著作。"
+}

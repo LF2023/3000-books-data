@@ -1,0 +1,20 @@
+{
+  "id": "0018",
+  "slug": "an-essay-concerning-human-understanding",
+  "title": "人类理解论",
+  "author": {
+    "name": "洛克",
+    "era": "1689年"
+  },
+  "category": "哲学",
+  "tags": [
+    "经验主义",
+    "认识论"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "洛克论证心灵原为白板、知识来自经验的认识论著作。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0081",
+  "slug": "pride-and-prejudice",
+  "title": "傲慢与偏见",
+  "author": {
+    "name": "简·奥斯汀",
+    "era": "1813年"
+  },
+  "category": "文学",
+  "tags": [
+    "长篇小说",
+    "英国"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "简·奥斯汀写伊丽莎白·班纳特与达西之间误会与婚姻的长篇小说。"
+}

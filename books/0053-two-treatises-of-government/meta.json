@@ -1,0 +1,20 @@
+{
+  "id": "0053",
+  "slug": "two-treatises-of-government",
+  "title": "政府论",
+  "author": {
+    "name": "洛克",
+    "era": "1689年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "政治哲学",
+    "自由主义"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "洛克反驳君权神授并论证自然权利与有限政府的两篇论文。"
+}

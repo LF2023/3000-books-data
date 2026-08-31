@@ -1,0 +1,20 @@
+{
+  "id": "0006",
+  "slug": "the-republic",
+  "title": "理想国",
+  "author": {
+    "name": "柏拉图",
+    "era": "公元前4世纪"
+  },
+  "category": "哲学",
+  "tags": [
+    "西方哲学",
+    "政治哲学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "柏拉图以对话体讨论正义、灵魂与理想城邦的哲学著作。"
+}

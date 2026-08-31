@@ -1,0 +1,20 @@
+{
+  "id": "0019",
+  "slug": "critique-of-pure-reason",
+  "title": "纯粹理性批判",
+  "author": {
+    "name": "康德",
+    "era": "1781年"
+  },
+  "category": "哲学",
+  "tags": [
+    "先验哲学",
+    "认识论"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "康德考察理性认识之条件与限度的先验哲学著作。"
+}

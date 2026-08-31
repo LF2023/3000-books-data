@@ -1,0 +1,20 @@
+{
+  "id": "0092",
+  "slug": "the-travels-of-marco-polo",
+  "title": "马可·波罗游记",
+  "author": {
+    "name": "马可·波罗",
+    "era": "约1300年"
+  },
+  "category": "地理艺术",
+  "tags": [
+    "游记",
+    "地理"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "马可·波罗口述、鲁斯蒂谦记录的欧亚旅行见闻。"
+}

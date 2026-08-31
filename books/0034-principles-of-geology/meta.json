@@ -1,0 +1,20 @@
+{
+  "id": "0034",
+  "slug": "principles-of-geology",
+  "title": "地质学原理",
+  "author": {
+    "name": "莱尔",
+    "era": "1830年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "地质学",
+    "渐变论"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "查尔斯·莱尔主张以现今可观察过程解释地质历史的著作。"
+}

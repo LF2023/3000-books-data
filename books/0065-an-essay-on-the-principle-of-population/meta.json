@@ -1,0 +1,20 @@
+{
+  "id": "0065",
+  "slug": "an-essay-on-the-principle-of-population",
+  "title": "人口论",
+  "author": {
+    "name": "马尔萨斯",
+    "era": "1798年"
+  },
+  "category": "历史与社会",
+  "tags": [
+    "人口学",
+    "政治经济学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托马斯·马尔萨斯论证人口增长往往快于生活资料增长的论文。"
+}

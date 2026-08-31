@@ -1,0 +1,19 @@
+{
+  "id": "0067",
+  "slug": "homer-epics",
+  "title": "荷马史诗（伊利亚特/奥德赛）",
+  "author": {
+    "name": "荷马",
+    "era": "约公元前8世纪"
+  },
+  "category": "文学",
+  "tags": [
+    "古希腊史诗"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "托名荷马的两部古希腊史诗，分别写特洛伊战争与奥德修斯归乡。"
+}

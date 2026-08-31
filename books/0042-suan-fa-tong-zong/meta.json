@@ -1,0 +1,20 @@
+{
+  "id": "0042",
+  "slug": "suan-fa-tong-zong",
+  "title": "算法统宗",
+  "author": {
+    "name": "程大位",
+    "era": "1592年"
+  },
+  "category": "自然科学",
+  "tags": [
+    "珠算",
+    "数学"
+  ],
+  "language": "zh",
+  "rights": {
+    "status": "unverified",
+    "hostsFullText": false
+  },
+  "oneSentenceSummary": "程大位编著的明代珠算与应用算术著作。"
+}
