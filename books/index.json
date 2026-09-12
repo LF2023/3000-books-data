@@ -5,7 +5,8 @@
     "title": "论语",
     "author": "孔子及其弟子",
     "era": "春秋时期",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0002",
@@ -13,7 +14,8 @@
     "title": "道德经",
     "author": "老子",
     "era": "春秋时期",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0003",
@@ -21,7 +23,8 @@
     "title": "庄子",
     "author": "庄周",
     "era": "战国时期",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0004",
@@ -29,7 +32,8 @@
     "title": "孟子",
     "author": "孟轲",
     "era": "战国时期",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0005",
@@ -37,7 +41,8 @@
     "title": "孙子兵法",
     "author": "孙武",
     "era": "春秋时期",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0006",
@@ -45,7 +50,8 @@
     "title": "理想国",
     "author": "柏拉图",
     "era": "公元前4世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0007",
@@ -53,7 +59,8 @@
     "title": "形而上学",
     "author": "亚里士多德",
     "era": "公元前4世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0008",
@@ -61,7 +68,8 @@
     "title": "尼各马可伦理学",
     "author": "亚里士多德",
     "era": "公元前4世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": true
   },
   {
     "id": "0009",
@@ -69,7 +77,8 @@
     "title": "沉思录",
     "author": "马可·奥勒留",
     "era": "2世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": true
   },
   {
     "id": "0010",
@@ -77,7 +86,8 @@
     "title": "忏悔录",
     "author": "奥古斯丁",
     "era": "约400年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0011",
@@ -85,7 +95,8 @@
     "title": "摩诃婆罗多",
     "author": "广博仙人（传）",
     "era": "约公元前4世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0012",
@@ -93,7 +104,8 @@
     "title": "罗摩衍那",
     "author": "蚁垤（传）",
     "era": "约公元前3世纪",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0013",
@@ -101,7 +113,8 @@
     "title": "奥义书",
     "author": "印度无名智者",
     "era": "约公元前800-500年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0014",
@@ -109,7 +122,8 @@
     "title": "神学大全",
     "author": "托马斯·阿奎那",
     "era": "1274年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0015",
@@ -117,7 +131,8 @@
     "title": "谈谈方法",
     "author": "笛卡尔",
     "era": "1637年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0016",
@@ -125,7 +140,8 @@
     "title": "伦理学",
     "author": "斯宾诺莎",
     "era": "1677年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": true
   },
   {
     "id": "0017",
@@ -133,7 +149,8 @@
     "title": "单子论",
     "author": "莱布尼茨",
     "era": "1714年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0018",
@@ -141,7 +158,8 @@
     "title": "人类理解论",
     "author": "洛克",
     "era": "1689年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0019",
@@ -149,7 +167,8 @@
     "title": "纯粹理性批判",
     "author": "康德",
     "era": "1781年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0020",
@@ -157,7 +176,8 @@
     "title": "精神现象学",
     "author": "黑格尔",
     "era": "1807年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": true
   },
   {
     "id": "0021",
@@ -165,7 +185,8 @@
     "title": "作为意志和表象的世界",
     "author": "叔本华",
     "era": "1818年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0022",
@@ -173,7 +194,8 @@
     "title": "查拉图斯特拉如是说",
     "author": "尼采",
     "era": "1883年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": true
   },
   {
     "id": "0023",
@@ -181,7 +203,8 @@
     "title": "论自由",
     "author": "约翰·密尔",
     "era": "1859年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0024",
@@ -189,7 +212,8 @@
     "title": "实用主义",
     "author": "威廉·詹姆斯",
     "era": "1907年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0025",
@@ -197,7 +221,8 @@
     "title": "思想录",
     "author": "帕斯卡尔",
     "era": "1670年",
-    "category": "哲学"
+    "category": "哲学",
+    "cover": false
   },
   {
     "id": "0026",
@@ -205,7 +230,8 @@
     "title": "几何原本",
     "author": "欧几里得",
     "era": "约公元前300年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0027",
@@ -213,7 +239,8 @@
     "title": "九章算术",
     "author": "张苍、耿寿昌等",
     "era": "约公元1世纪",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0028",
@@ -221,7 +248,8 @@
     "title": "天体运行论",
     "author": "哥白尼",
     "era": "1543年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0029",
@@ -229,7 +257,8 @@
     "title": "关于两大世界体系的对话",
     "author": "伽利略",
     "era": "1632年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0030",
@@ -237,7 +266,8 @@
     "title": "自然哲学的数学原理",
     "author": "牛顿",
     "era": "1687年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0031",
@@ -245,7 +275,8 @@
     "title": "光学",
     "author": "牛顿",
     "era": "1704年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0032",
@@ -253,7 +284,8 @@
     "title": "化学基础",
     "author": "拉瓦锡",
     "era": "1789年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0033",
@@ -261,7 +293,8 @@
     "title": "物种起源",
     "author": "达尔文",
     "era": "1859年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0034",
@@ -269,7 +302,8 @@
     "title": "地质学原理",
     "author": "莱尔",
     "era": "1830年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0035",
@@ -277,7 +311,8 @@
     "title": "实验医学研究导论",
     "author": "贝尔纳",
     "era": "1865年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0036",
@@ -285,7 +320,8 @@
     "title": "电磁通论",
     "author": "麦克斯韦",
     "era": "1873年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0037",
@@ -293,7 +329,8 @@
     "title": "狭义与广义相对论浅说",
     "author": "爱因斯坦",
     "era": "1916年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0038",
@@ -301,7 +338,8 @@
     "title": "梦的解析",
     "author": "弗洛伊德",
     "era": "1899年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": true
   },
   {
     "id": "0039",
@@ -309,7 +347,8 @@
     "title": "本草纲目",
     "author": "李时珍",
     "era": "1578年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": true
   },
   {
     "id": "0040",
@@ -317,7 +356,8 @@
     "title": "天工开物",
     "author": "宋应星",
     "era": "1637年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0041",
@@ -325,7 +365,8 @@
     "title": "齐民要术",
     "author": "贾思勰",
     "era": "6世纪",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": true
   },
   {
     "id": "0042",
@@ -333,7 +374,8 @@
     "title": "算法统宗",
     "author": "程大位",
     "era": "1592年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0043",
@@ -341,7 +383,8 @@
     "title": "植物哲学",
     "author": "林奈",
     "era": "1751年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0044",
@@ -349,7 +392,8 @@
     "title": "条件反射研究",
     "author": "巴甫洛夫",
     "era": "1927年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0045",
@@ -357,7 +401,8 @@
     "title": "热的解析理论",
     "author": "傅里叶",
     "era": "1822年",
-    "category": "自然科学"
+    "category": "自然科学",
+    "cover": false
   },
   {
     "id": "0046",
@@ -365,7 +410,8 @@
     "title": "史记",
     "author": "司马迁",
     "era": "公元前1世纪",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": true
   },
   {
     "id": "0047",
@@ -373,7 +419,8 @@
     "title": "资治通鉴",
     "author": "司马光",
     "era": "1084年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": true
   },
   {
     "id": "0048",
@@ -381,7 +428,8 @@
     "title": "汉书",
     "author": "班固",
     "era": "1世纪",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0049",
@@ -389,7 +437,8 @@
     "title": "历史",
     "author": "希罗多德",
     "era": "公元前5世纪",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0050",
@@ -397,7 +446,8 @@
     "title": "伯罗奔尼撒战争史",
     "author": "修昔底德",
     "era": "公元前5世纪",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0051",
@@ -405,7 +455,8 @@
     "title": "君主论",
     "author": "马基雅维利",
     "era": "1532年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0052",
@@ -413,7 +464,8 @@
     "title": "利维坦",
     "author": "霍布斯",
     "era": "1651年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0053",
@@ -421,7 +473,8 @@
     "title": "政府论",
     "author": "洛克",
     "era": "1689年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0054",
@@ -429,7 +482,8 @@
     "title": "社会契约论",
     "author": "卢梭",
     "era": "1762年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": true
   },
   {
     "id": "0055",
@@ -437,7 +491,8 @@
     "title": "论法的精神",
     "author": "孟德斯鸠",
     "era": "1748年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0056",
@@ -445,7 +500,8 @@
     "title": "国富论",
     "author": "亚当·斯密",
     "era": "1776年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0057",
@@ -453,7 +509,8 @@
     "title": "道德情操论",
     "author": "亚当·斯密",
     "era": "1759年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": true
   },
   {
     "id": "0058",
@@ -461,7 +518,8 @@
     "title": "论美国的民主",
     "author": "托克维尔",
     "era": "1835年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0059",
@@ -469,7 +527,8 @@
     "title": "资本论（第一卷）",
     "author": "马克思",
     "era": "1867年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0060",
@@ -477,7 +536,8 @@
     "title": "共产党宣言",
     "author": "马克思、恩格斯",
     "era": "1848年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": true
   },
   {
     "id": "0061",
@@ -485,7 +545,8 @@
     "title": "罗马帝国衰亡史",
     "author": "爱德华·吉本",
     "era": "1776年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0062",
@@ -493,7 +554,8 @@
     "title": "新工具",
     "author": "培根",
     "era": "1620年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0063",
@@ -501,7 +563,8 @@
     "title": "乌托邦",
     "author": "托马斯·莫尔",
     "era": "1516年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0064",
@@ -509,7 +572,8 @@
     "title": "古代社会",
     "author": "摩尔根",
     "era": "1877年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0065",
@@ -517,7 +581,8 @@
     "title": "人口论",
     "author": "马尔萨斯",
     "era": "1798年",
-    "category": "历史与社会"
+    "category": "历史与社会",
+    "cover": false
   },
   {
     "id": "0066",
@@ -525,7 +590,8 @@
     "title": "吉尔伽美什史诗",
     "author": "美索不达米亚无名氏",
     "era": "约公元前2000年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0067",
@@ -533,7 +599,8 @@
     "title": "荷马史诗（伊利亚特/奥德赛）",
     "author": "荷马",
     "era": "约公元前8世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0068",
@@ -541,7 +608,8 @@
     "title": "俄狄浦斯王",
     "author": "索福克勒斯",
     "era": "公元前5世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0069",
@@ -549,7 +617,8 @@
     "title": "神曲",
     "author": "但丁",
     "era": "约1320年",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0070",
@@ -557,7 +626,8 @@
     "title": "十日谈",
     "author": "薄伽丘",
     "era": "1353年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0071",
@@ -565,7 +635,8 @@
     "title": "堂吉诃德",
     "author": "塞万提斯",
     "era": "1605年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0072",
@@ -573,7 +644,8 @@
     "title": "哈姆雷特",
     "author": "莎士比亚",
     "era": "约1601年",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0073",
@@ -581,7 +653,8 @@
     "title": "失乐园",
     "author": "弥尔顿",
     "era": "1667年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0074",
@@ -589,7 +662,8 @@
     "title": "浮士德",
     "author": "歌德",
     "era": "1808年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0075",
@@ -597,7 +671,8 @@
     "title": "红楼梦",
     "author": "曹雪芹",
     "era": "18世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0076",
@@ -605,7 +680,8 @@
     "title": "三国演义",
     "author": "罗贯中",
     "era": "14世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0077",
@@ -613,7 +689,8 @@
     "title": "水浒传",
     "author": "施耐庵",
     "era": "14世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0078",
@@ -621,7 +698,8 @@
     "title": "西游记",
     "author": "吴承恩",
     "era": "16世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0079",
@@ -629,7 +707,8 @@
     "title": "源氏物语",
     "author": "紫式部",
     "era": "11世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0080",
@@ -637,7 +716,8 @@
     "title": "一千零一夜",
     "author": "阿拉伯民间故事集",
     "era": "约8-13世纪",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0081",
@@ -645,7 +725,8 @@
     "title": "傲慢与偏见",
     "author": "简·奥斯汀",
     "era": "1813年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0082",
@@ -653,7 +734,8 @@
     "title": "巴黎圣母院",
     "author": "雨果",
     "era": "1831年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0083",
@@ -661,7 +743,8 @@
     "title": "悲惨世界",
     "author": "雨果",
     "era": "1862年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0084",
@@ -669,7 +752,8 @@
     "title": "红与黑",
     "author": "司汤达",
     "era": "1830年",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0085",
@@ -677,7 +761,8 @@
     "title": "战争与和平",
     "author": "托尔斯泰",
     "era": "1869年",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0086",
@@ -685,7 +770,8 @@
     "title": "安娜·卡列尼娜",
     "author": "托尔斯泰",
     "era": "1877年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0087",
@@ -693,7 +779,8 @@
     "title": "罪与罚",
     "author": "陀思妥耶夫斯基",
     "era": "1866年",
-    "category": "文学"
+    "category": "文学",
+    "cover": true
   },
   {
     "id": "0088",
@@ -701,7 +788,8 @@
     "title": "卡拉马佐夫兄弟",
     "author": "陀思妥耶夫斯基",
     "era": "1880年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0089",
@@ -709,7 +797,8 @@
     "title": "草叶集",
     "author": "沃尔特·惠特曼",
     "era": "1855年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0090",
@@ -717,7 +806,8 @@
     "title": "变形记",
     "author": "卡夫卡",
     "era": "1915年",
-    "category": "文学"
+    "category": "文学",
+    "cover": false
   },
   {
     "id": "0091",
@@ -725,7 +815,8 @@
     "title": "徐霞客游记",
     "author": "徐霞客",
     "era": "1642年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": true
   },
   {
     "id": "0092",
@@ -733,7 +824,8 @@
     "title": "马可·波罗游记",
     "author": "马可·波罗",
     "era": "约1300年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   },
   {
     "id": "0093",
@@ -741,7 +833,8 @@
     "title": "大唐西域记",
     "author": "玄奘",
     "era": "646年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": true
   },
   {
     "id": "0094",
@@ -749,7 +842,8 @@
     "title": "建筑十书",
     "author": "维特鲁威",
     "era": "公元前1世纪",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   },
   {
     "id": "0095",
@@ -757,7 +851,8 @@
     "title": "论绘画",
     "author": "达·芬奇",
     "era": "约1651年刊行",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   },
   {
     "id": "0096",
@@ -765,7 +860,8 @@
     "title": "爱弥儿",
     "author": "卢梭",
     "era": "1762年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": true
   },
   {
     "id": "0097",
@@ -773,7 +869,8 @@
     "title": "大教学论",
     "author": "夸美纽斯",
     "era": "1657年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   },
   {
     "id": "0098",
@@ -781,7 +878,8 @@
     "title": "乌合之众",
     "author": "古斯塔夫·勒庞",
     "era": "1895年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   },
   {
     "id": "0099",
@@ -789,7 +887,8 @@
     "title": "金枝",
     "author": "詹姆斯·弗雷泽",
     "era": "1890年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": true
   },
   {
     "id": "0100",
@@ -797,6 +896,7 @@
     "title": "艺苑名人传",
     "author": "瓦萨里",
     "era": "1550年",
-    "category": "地理艺术"
+    "category": "地理艺术",
+    "cover": false
   }
 ]
