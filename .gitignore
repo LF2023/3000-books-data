@@ -10,3 +10,5 @@ Desktop.ini
 *~
 *.swp
 *.swo
+.covers-resp.json
+.dbg.json
